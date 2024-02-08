@@ -1,1 +1,2 @@
-# BlueBorne-Scanner
+# ToothScan
+Bluetooth Vulnerability Scanner
